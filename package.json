@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "nodejs-day3",
+  "description": "day3 class code",
+  "version": "1.0.0",
+  "main": "expressserver.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon expressserver"
+  },
+  "author": "",
+  "license": "ISC"
+}
